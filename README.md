@@ -2,7 +2,7 @@
 
 :computer: Junior Full Stack Developer
 
-:writing_hand: Currently studying React.Js and MySQL
+:writing_hand: Currently studying React.Js 
 
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
