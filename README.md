@@ -1,7 +1,5 @@
 # Hi there, I'm Jeff :wave:
 
-<img  />
-
 :computer: Junior Full Stack Developer
 
 <div>
