@@ -1,8 +1,10 @@
 # Hi there, I'm Jeff :wave:
 
+<img  />
+
 :computer: Junior Full Stack Developer
 
-:writing_hand: Currently studying React.Js 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elohdin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
