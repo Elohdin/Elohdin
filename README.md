@@ -1,6 +1,6 @@
 # Hi there, I'm Jeff :wave:
 
-:computer: Junior Fonrt-end Developer
+:computer: Junior Front-end/Android Developer
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elohdin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
