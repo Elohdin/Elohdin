@@ -27,3 +27,8 @@
   <a href="https://www.linkedin.com/in/jefferson-soares-3aa10415a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/_j3ff5" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+##
+
+<a href="https://app.daily.dev/J3ff5"><img src="https://api.daily.dev/devcards/ecd2c67727d2409ab79fb1d2fd5ed476.png?r=tzw" width="400" alt="Card do jeffinho"/></a>
+
