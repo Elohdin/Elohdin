@@ -30,5 +30,6 @@
 
 ##
 
-<a href="https://app.daily.dev/J3ff5"><img src="https://api.daily.dev/devcards/ecd2c67727d2409ab79fb1d2fd5ed476.png?r=tzw" width="400" alt="Card do jeffinho"/></a>
-
+<div align="center">
+<a href="https://app.daily.dev/J3ff5"><img src="https://api.daily.dev/devcards/ecd2c67727d2409ab79fb1d2fd5ed476.png?r=tzw" width="250" alt="Jefferson Soares's Dev Card"/></a>
+</div>
